@@ -1,0 +1,11 @@
+{
+  "id": "builtin.high-contrast-theme",
+  "name": "High Contrast Theme",
+  "colorThemes": [
+    {
+      "id": "high-contrast",
+      "label": "High Contrast",
+      "path": "color-theme.json"
+    }
+  ]
+}

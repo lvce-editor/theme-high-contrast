@@ -1,0 +1,86 @@
+{
+  "type": "high-contrast",
+  "colors": {
+    "ActivityBarBackground": "#000000",
+    "ActivityBarActiveForeground": "#ffffff",
+    "ActivityBarForeground": "#ffffff",
+
+    "BadgeBackground": "",
+    "BadgeForeground": "",
+
+    "ContextMenuBackground": "",
+    "ContextMenuForeground": "",
+
+    "ContrastBorder": "#6FC3DF",
+
+    "EditorBackGround": "",
+    "EditorScrollBarBackground": "rgba(111, 195, 223, 0.6)",
+    "EditorCursorBackground": "#ffffff",
+    "EditorSelectionBackground": "#ffffff",
+
+    "FocusOutline": "",
+
+    "InputBoxBackground": "",
+    "InputBoxForeground": "",
+
+    "ListActiveSelectionBackground": "#444",
+    "ListActiveSelectionForeground": "",
+    "ListHoverBackground": "#444",
+    "ListHoverForeground": "",
+    "ListInactiveSelectionBackground": "",
+    "ListForeground": "#ffffff",
+
+    "MainBackground": "#000000",
+
+    "PanelBackground": "#000000",
+    "PanelBorderTopColor": "",
+
+    "QuickPickBackground": "#000000",
+    "QuickPickInputBackground": "",
+
+    "SideBarBackground": "#000000",
+
+    "StatusBarBackground": "#000000",
+    "StatusBarBorderTopColor": "",
+
+    "TabActiveForeground": "rgb(255, 255, 255)",
+    "TabForeground": "rgb(255, 255, 255)",
+    "TabActiveBackground": "",
+    "TabInactiveBackground": "",
+
+    "TitleBarBackground": "#000000",
+    "TitleBarBorderBottomColor": "",
+    "TitleBarColor": "",
+    "TitleBarColorInactive": ""
+  },
+  "tokenColors": [
+    {
+      "name": "CssSelector",
+      "foreground": "#3AD900"
+    },
+    {
+      "name": "Type",
+      "foreground": "#4EC9B0"
+    },
+    {
+      "name": "Keyword",
+      "foreground": "#569CD6"
+    },
+    {
+      "name": "Comment",
+      "foreground": "#7CA668"
+    },
+    {
+      "name": "KeywordImport",
+      "foreground": "#C586C0"
+    },
+    {
+      "name": "VariableName",
+      "foreground": "#9CDCFE"
+    },
+    {
+      "name": "KeywordControl",
+      "foreground": "#C586C0"
+    }
+  ]
+}

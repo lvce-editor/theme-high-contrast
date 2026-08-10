@@ -67,6 +67,10 @@
       "foreground": "#569CD6"
     },
     {
+      "name": "KeywordOperator",
+      "foreground": "#569CD6"
+    },
+    {
       "name": "Comment",
       "foreground": "#7CA668"
     },
